@@ -18,11 +18,15 @@ problems: list of strings, each string an arithmetic problem like "32 + 698"
 show_answers: boolean, optional, set to True to display answers
 ## Example
 
+```python
 print(arithmetic_arranger(["3 + 855", "988 + 40"], True))
-Output
+```
 
+## Output
+
+```python
     3      988
 + 855    +  40
 -----    -----
   858     1028
-Let me know if you want help extending this with multiplication, division, or extra formatting!
+```
