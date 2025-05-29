@@ -1,4 +1,4 @@
-## Arithmetic Arranger 1.0 – Python Function to Format Arithmetic Problems
+## Arithmetic Arranger – Python Function to Format Arithmetic Problems
 
 This project implements a Python function that arranges and formats a list of simple arithmetic problems vertically and side-by-side, optionally displaying the answers. It was created as part of freeCodeCamp’s Scientific Computing with Python Certification.
 
