@@ -13,9 +13,11 @@ This project implements a Python function that arranges and formats a list of si
 
 Call the function:
 
+```python
 arithmetic_arranger(problems, show_answers=False)
 problems: list of strings, each string an arithmetic problem like "32 + 698"
 show_answers: boolean, optional, set to True to display answers
+```
 ## Example
 
 ```python
